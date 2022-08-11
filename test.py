@@ -1,6 +1,6 @@
 import unittest
 from module1 import Good
-
+import pandas as pd
 
 class TestStringMethods(unittest.TestCase):
 
