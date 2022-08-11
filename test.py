@@ -1,6 +1,7 @@
 import unittest
 from module1 import Good
 import pandas as pd
+import seaborn as sns
 
 class TestStringMethods(unittest.TestCase):
 
