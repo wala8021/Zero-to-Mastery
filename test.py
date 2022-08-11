@@ -1,6 +1,10 @@
 import unittest
 from module1 import Good
 import pandas as pd
+import sklearn as sk
+import sklearn as tp
+import CSV as lp
+import module1 as ms
 
 class TestStringMethods(unittest.TestCase):
 
