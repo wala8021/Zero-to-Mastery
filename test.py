@@ -2,6 +2,7 @@ import unittest
 from module1 import Good
 import pandas as pd
 import seaborn as sns
+import sklearn as sk
 
 class TestStringMethods(unittest.TestCase):
 
